@@ -12,5 +12,5 @@ Feel free to submit your own useful Lua functions through a pull request, and I 
 This project is licensed under the MIT License.
 Some files may contain third-party code with different licenses. See the Credits section for details.
 ## Credits
-[`kroefer1`](https://github.com/kroefer1) - repo owner
-[`Yu Hao`](https://stackoverflow.com/users/1009479/yu-hao) - sleep.lua function
+- [`kroefer1`](https://github.com/kroefer1) - repo owner
+- [`Yu Hao`](https://stackoverflow.com/users/1009479/yu-hao) - sleep.lua function
